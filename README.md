@@ -4,7 +4,7 @@ Hi 👋 My name is Rajdeep Mandal
 I am working as a Software Engineer
 ---------------------------------
 
-I build enterprise microservices, workflow automation, and AI-powered platforms. I work mostly with Java, Spring Boot, and Camunda BPM — and I'm currently deep into LLM integration, RAG pipelines, and intelligent document processing for banking systems.
+I build enterprise microservices, workflow automation, and AI-powered platforms. I work mostly with Java, Spring Boot, and Camunda BPM — and I'm currently deep into LLM integration, RAG pipelines, and intelligent document processing for banking systems...
 
 
 ### Skills
